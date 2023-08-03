@@ -1,5 +1,6 @@
 # dialoguer
 
+foo
 [![Build Status](https://github.com/console-rs/dialoguer/workflows/CI/badge.svg)](https://github.com/console-rs/dialoguer/actions?query=branch%3Amaster)
 [![Latest version](https://img.shields.io/crates/v/dialoguer.svg)](https://crates.io/crates/dialoguer)
 [![Documentation](https://docs.rs/dialoguer/badge.svg)](https://docs.rs/dialoguer)
